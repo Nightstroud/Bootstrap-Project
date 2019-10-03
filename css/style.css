@@ -86,4 +86,43 @@ body {
 .card {
     background-image: linear-gradient(to right top, #454545, #5c5c5c, #757575, #8e8e8e, #a8a8a8);
     margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.no {
+    background-image: linear-gradient(to right top, #520000, #750008, #99000a, #bf0008, #e50000);
+    border: none;
+}
+
+.asdf {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.v {
+    background-image: linear-gradient(to bottom, #540000, #590022, #52053d, #3c1b54, #072a62);
+    color: white;
+    margin: 10px 0;
+    border: none;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.modal-body img {
+    width: 100%;
+}
+
+.progress {
+    background-color: darkblue;
+    margin: 10px 0;
+}
+
+.progress-bar {
+    background-image: radial-gradient(circle, #650000, #4f040d, #380910, #22080d, #000000);
 }
