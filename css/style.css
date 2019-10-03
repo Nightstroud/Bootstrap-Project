@@ -13,3 +13,77 @@ body {
     border-bottom-right-radius: 20px;
     box-shadow: 1px 7px 10px -1px rgba(0,15,92,1);
 }
+
+#btn {
+    background-image: linear-gradient(to right top, #202020, #333333, #474747, #5d5d5d, #737373);
+    color: white;
+    border: black solid 3px;
+}
+
+#card1 {
+    background-image: linear-gradient(to right top, #202020, #333333, #474747, #5d5d5d, #737373);
+    border: none;
+}
+
+#card4 {
+    background-image: linear-gradient(to right top, #03143c, #001e59, #002977, #003396, #0a3eb6);
+    color: white;
+    border: none;
+}
+
+#btn2 {
+    background-image: linear-gradient(to right top, #202020, #333333, #474747, #5d5d5d, #737373);
+    color: white;
+    border: black solid 3px;
+}
+
+#card2 {
+    background-image: linear-gradient(to right top, #202020, #333333, #474747, #5d5d5d, #737373);
+    border: none;
+}
+
+#card5 {
+    background-image: linear-gradient(to right top, #03143c, #001e59, #002977, #003396, #0a3eb6);
+    color: white;
+    border: none;
+}
+
+#btn3 {
+    background-image: linear-gradient(to right top, #202020, #333333, #474747, #5d5d5d, #737373);
+    color: white;
+    border: black solid 3px;
+}
+
+#card3 {
+    background-image: linear-gradient(to right top, #202020, #333333, #474747, #5d5d5d, #737373);
+    border: none;
+}
+
+#card6 {
+    background-image: linear-gradient(to right top, #03143c, #001e59, #002977, #003396, #0a3eb6);
+    color: white;
+    border: none;
+}
+
+.input-group-text {
+    background-image: linear-gradient(to right top, #202020, #333333, #474747, #5d5d5d, #737373);
+    border-color: black;
+}
+.form-control {
+    background-image: linear-gradient(to right top, #000e19, #082b3a, #004b5a, #006d77, #00908d);
+    border-color: black;
+    color: white;
+}
+
+.nav {
+    position: sticky;
+}
+
+.jumbotron {
+    background-image: linear-gradient(to right top, #454545, #5c5c5c, #757575, #8e8e8e, #a8a8a8);
+}
+
+.card {
+    background-image: linear-gradient(to right top, #454545, #5c5c5c, #757575, #8e8e8e, #a8a8a8);
+    margin-bottom: 10px;
+}
